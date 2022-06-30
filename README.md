@@ -2,7 +2,7 @@
 pip install skid
 ```
 
-<a href="https://discord.gg/8QCpTwJGUe" target="_blank"> <img src="https://discordapp.com/api/guilds/960555294574907433/widget.png?style=shield" alt="shield.png"></a>
+<a href="https://discord.gg/8QCpTwJGUe" target="_blank"> <img src="https://discord.com/api/guilds/960555294574907433/widget.png?style=shield" alt="shield.png"></a>
 
 
 📩・**Want to reach? [discord](https://discord.gg/HsbgzVFFHF )**
