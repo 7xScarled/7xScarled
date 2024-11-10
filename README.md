@@ -9,5 +9,4 @@ pip install nwo
 🔥・**/shop soon**
 
 
-<a href="https://Cheataway.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/903790630772277311.png"/></a>
-<a href="https://discord.gg/bahnhof " target="_blank"><img src="https://github.com/Rdimo/Rdimo/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+<a href="https://discord.gg/bahnhof" target="_blank"> <img src="https://discord.c99.nl/widget/theme-5/193902688394674176.png"/></a>
