@@ -1,5 +1,5 @@
 ```sh-session
-pip install nwo
+pip install ogdark
 ```
 
 
@@ -8,5 +8,3 @@ pip install nwo
 
 🔥・**/shop soon**
 
-
-<a href="https://discord.gg/bahnhof" target="_blank"> <img src="https://discord.c99.nl/widget/theme-5/193902688394674176.png"/></a>
