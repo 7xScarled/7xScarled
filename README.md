@@ -3,8 +3,8 @@ pip install ogdark
 ```
 
 
-📩・**Want to reach? [discord](https://discord.gg/bahnhof)**
+📩・**Want to reach? [discord](https://discord.gg/zwl)**
 
 
-🔥・**/shop soon**
+🔥・**[/shop](https://wizzard.lol**
 
